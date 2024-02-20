@@ -1,0 +1,30 @@
+Sistema de Delivery (ifood)
+
+Usuario:
+
+1-gostaria de receber noticias de promoções
+
+2-gostaria de cupons de desconto
+
+3-gostaria de receber o reembolso caso o pedido não chegue
+
+4-gostaria de acompanhar a entrega em tempo real
+
+5-gostaria de poder entra em contato com o empresa caso aja
+algum problema
+
+Empresa:
+
+1-Visualizar e responder avaliações
+
+2-Visualizar gráficos gerenciais
+
+3-Oferecer clube de fidelidade para clientes
+
+4-Receber o pagamento diretamente na plataforma
+
+5-Gerenciar o cardapio
+
+Entregador:
+
+1-
